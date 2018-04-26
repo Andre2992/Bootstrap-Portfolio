@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+}
+.page-header h1{
+    text-align: center;
+    color: black;
+    width: 100%;
+}
+
+.p{
+    font-size: 18px;
+
+}
+
+.contact {
+    padding: 50px 0 80px;
+    text-align: center;
+}
+
+.contact h2{
+    color:Black;
+    margin:20px 0 20px;
+}
+
+.contact .input-group{
+    margin-bottom: 25px;
+}
+
+.contact .form-control{
+    border-radius: 0 !important;
+}
+
+.contact span{
+    border-radius:0!important;
+}
+
+.contact .btn{
+    border-radius:0;
+    font-size:15px;
+    background-color: red;
+    color:#fff;
+    width: 100%;
+}
+
+.contact .btn:hover{
+    background-color:rgb(243, 108, 108) !important;
+    color:#fff;
+}
